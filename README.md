@@ -1,3 +1,3 @@
-# newtodo
+# React Todo App
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/newtodo)
+Simple React Todo App built to learn how to use React.
